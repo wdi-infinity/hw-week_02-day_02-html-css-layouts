@@ -1,0 +1,33 @@
+#box1{
+  border:2px solid rgba(128, 128, 128, 0.178);
+  background: rgba(128, 128, 128, 0.178);
+  width: 99.5%;
+  height: 100px;
+  margin-bottom: 10px;
+}
+.row2{
+    display: flex;
+    justify-content: space-between;
+
+}
+.box2{
+    border:2px solid rgba(128, 128, 128, 0.178);
+    background: rgba(128, 128, 128, 0.178);
+    margin-bottom: 10px;
+}
+.grow{
+    width: 63%;
+    height: 400px;
+}
+.box2:first-child{
+    width: 17%;
+}
+.box2:last-child{
+    width: 17%;
+}
+#box3{
+    border:2px solid rgba(128, 128, 128, 0.178);
+    background: rgba(128, 128, 128, 0.178);
+    width: 99.5%;
+    height: 100px;
+}

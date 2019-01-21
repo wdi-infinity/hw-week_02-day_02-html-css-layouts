@@ -1,0 +1,115 @@
+.row1{
+display: flex;
+justify-content: flex-end;
+align-items: center;
+}
+
+.box:first-child{
+width: 20%;
+height: 120px;
+margin-right: 200px;
+}
+.box{
+    border:2px solid rgba(128, 128, 128, 0.178);
+    background: rgba(128, 128, 128, 0.178);
+}
+.grow{
+    border:2px solid rgba(128, 128, 128, 0.178);
+    background: rgba(128, 128, 128, 0.178);
+    width: 12%;
+    height: 60px;
+    margin-left: 10px;
+}
+/*.row2{
+    display: flex;
+    margin-bottom: auto;
+    margin-top: auto;
+}*/
+
+.box2{
+    position: relative; 
+    margin-top: 10px;
+
+}
+.grow0{
+    border:2px solid rgba(128, 128, 128, 0.178);
+    background: rgba(128, 128, 128, 0.178);
+    width: 7%;
+    height: 500px;
+    position: absolute;
+ top: -11px;
+ left: -1px;
+}
+.grow1{
+    border:2px solid rgba(128, 128, 128, 0.178);
+    background: rgba(128, 128, 128, 0.178);
+    position: absolute;
+    top: -11px;
+    left: 97px;
+    width: 93%;
+    height: 60px;
+}
+.grow2{
+    border:2px solid rgba(128, 128, 128, 0.178);
+    background: rgba(128, 128, 128, 0.178);
+    position: absolute;
+    top: 59px;
+    left: 97px;
+width:81%; 
+height: 300px;
+}
+.grow3{
+    border:2px solid rgba(128, 128, 128, 0.178);
+    background: rgba(128, 128, 128, 0.178);
+    position: absolute;
+    top: 59px;
+    left: 1127px;  
+    width: 10%; 
+height: 300px;
+}
+.grow41{
+    border:2px solid rgba(128, 128, 128, 0.178);
+    background: rgba(128, 128, 128, 0.178);
+    position: absolute;
+    top: 368px;
+    left: 96px; 
+    width: 22.3%;
+    height: 121px; 
+}
+.grow42{
+    border:2px solid rgba(128, 128, 128, 0.178);
+    background: rgba(128, 128, 128, 0.178);
+    position: absolute;
+    top: 368px;
+    left: 390px; 
+    width: 22.3%;
+    height: 121px; 
+}
+.grow43{
+    border:2px solid rgba(128, 128, 128, 0.178);
+    background: rgba(128, 128, 128, 0.178);
+    position: absolute;
+    top: 368px;
+    left: 684px; 
+    width: 22.3%;
+    height: 121px; 
+}
+.grow44{
+    border:2px solid rgba(128, 128, 128, 0.178);
+    background: rgba(128, 128, 128, 0.178);
+    position: absolute;
+    top: 368px;
+    left: 978px; 
+    width: 22.3%;
+    height: 121px; 
+}
+#row3{
+  border:2px solid rgba(128, 128, 128, 0.178);
+  background: rgba(128, 128, 128, 0.178);
+  width: 99.5%;
+  height: 100px;
+ position: absolute;
+ top: 655px;
+  
+}
+
