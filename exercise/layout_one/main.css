@@ -1,0 +1,54 @@
+.div1{
+    border: 2px solid grey;
+    background-color:lightgray;
+    height: 100px;
+    width: 100%;
+    margin:10px;
+
+}
+
+
+.div2{
+   
+    height: 500px;
+    width: 100%;
+    margin: 10px; 
+    margin-left: 2px;
+    display: flex;
+     
+}
+
+
+.div3{
+
+        border: 2px solid grey;
+        height: 500px;
+        width: 40%;
+        background-color:lightgray;
+
+    
+    
+}
+
+.grow{
+    flex-grow: 2  ;
+    margin-right: 20px;
+}
+
+
+    
+.div4{
+        border: 2px solid grey;
+        height: 100px;
+        width: 60%;
+        background-color:lightgray;
+        margin-top: 10px;
+        flex-grow: 1;
+        margin-left: 20px;
+    
+    }    
+
+
+
+
+
