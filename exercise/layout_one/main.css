@@ -1,0 +1,45 @@
+
+.one{
+
+    height:100px ;
+    width:100% ;
+    border: 2px solid black;
+    margin: 10px;
+    margin-left: 5px;
+}
+.two{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 5px;
+
+}
+.two-column{
+    display: flex;
+    justify-content: flex-start;
+    border: 2px solid black;
+    height: 300px;
+    margin-top: 10px;
+   
+}
+.grow{
+    height: 100;
+    flex-grow: 1;
+    margin-left:15px;
+
+
+}
+.two-column:first-child{
+    height:100;
+    width: 72%;
+    margin-top: 10px;
+    
+   
+}
+footer{
+
+    height:100px ;
+    width:100% ;
+    border: 2px solid black;
+    margin: 10px;
+    margin-left: 5px;
+}
