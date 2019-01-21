@@ -1,0 +1,44 @@
+
+
+.first{
+    width: 100%;
+    margin: 10px;
+    height: 100px; 
+border: 2px solid black;
+}
+.row{
+    display: flex;
+    margin-left: 5px;
+    justify-content: space-between;
+    
+}
+.two-colum{
+    border: 2px solid black;
+    height: 300px;
+    margin-top: 10px
+
+}
+.three-colum{
+    border: 2px solid black;
+    height: 300px;
+    margin-top: 10px;
+    width: 40%;
+    flex-grow: 2;
+    margin-left: 20px;
+}
+.two-colum:first-child{
+    width: 40%;
+    
+
+}
+.grow{
+    flex-grow: 2;
+    margin-left: 20px;
+    width: 80%
+}
+footer{
+    width: 100%;
+    margin: 10px;
+    height: 100px; 
+border: 2px solid black;
+}
