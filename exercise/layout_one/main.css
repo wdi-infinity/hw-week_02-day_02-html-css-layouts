@@ -1,0 +1,28 @@
+#par1,#par2{
+
+    border:1px solid gray;
+    height: 100px;
+    width: 100%;
+    background: rgb(201, 197, 197);
+}
+#boxP {
+    display: flex;
+    justify-content: space-around;
+    margin-left: 2px;
+
+}
+.box{
+    margin-top:20px;
+    border:1px solid gray;
+    height: 450px;
+    width: 32%;
+    background: rgb(201, 197, 197);
+}
+.m {
+width: 800px;
+justify-content: space-between;
+}
+
+#par2{
+    margin-top:20px;
+}
