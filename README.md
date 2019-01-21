@@ -8,7 +8,7 @@ In the [exercise/layout_one](exercise/layout_one) folder there is an HTML and CS
 
 ## Bonus
 
-If you complete `layout_one`, try to these other very common layouts.  
+If you complete `layout_one`, build these other very common layouts.  
 
 #### [exercise/layout_two](exercise/layout_two) three-column layout
 <img width="632" alt="screen shot 2019-01-21 at 10 57 40 am" src="https://media.git.generalassemb.ly/user/3667/files/db550880-1d6b-11e9-9679-84edb23f4685">
