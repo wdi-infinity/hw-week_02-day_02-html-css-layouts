@@ -1,0 +1,30 @@
+.borderTopBottom{
+    border: 2px solid rgb(145, 145, 145);
+    height: 100px;
+    width:100%;
+    background-color:rgb(224, 219, 219);
+}
+
+
+#middle{
+    display: flex;
+    width: 100%;
+    
+}
+
+
+.box{
+    width:40%;
+    height:350px;
+    border: 2px solid rgb(145, 145, 145);;
+    margin-top:10px;
+    margin-bottom:10px;
+    background-color:rgb(224, 219, 219);
+    
+
+}
+
+.grow{
+    flex-grow: 1;
+    margin-left: 10px;
+}

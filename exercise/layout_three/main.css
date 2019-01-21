@@ -1,0 +1,45 @@
+.borderTopBottom{
+    border: 2px solid rgb(145, 145, 145);
+    height: 100px;
+    width:100%;
+    background-color:rgb(224, 219, 219);
+}
+
+
+.middle{
+    display: flex;
+    width: 100%;
+    
+}
+
+
+.box{
+    width:50%;
+    height:350px;
+    border: 2px solid rgb(145, 145, 145);;
+    margin-top:15px;
+    margin-bottom:15px;
+    background-color:rgb(224, 219, 219);
+    
+
+}
+
+
+
+.leftS{
+    margin-left: 20px;
+}
+
+.rightS{
+    margin-right: 20px;
+}
+
+.smallBox{
+    width:33.33%;
+    height:250px;
+    border: 2px solid rgb(145, 145, 145);;
+    margin-top:10px;
+    margin-bottom:15px;
+    background-color:rgb(224, 219, 219);
+    
+}
