@@ -1,0 +1,25 @@
+
+.firstrow{
+   background: lightgray;
+    margin: 50px;
+    width: 90%;
+    height: 100px;
+}
+.row{
+    display: flex;
+    justify-content: space-between;
+    width: 90%;
+    margin: 50px;
+ 
+}
+.two-column{
+    background: lightgray;
+    height: 500px;
+    width: 32%
+
+
+}
+.grow{
+    flex-grow: 2;
+    margin-right: 20px;
+}
