@@ -1,0 +1,23 @@
+
+.one-column{
+    background: #cccccc;
+    width: 90%;
+    height: 100px;
+    margin:50px;
+}
+.row{
+    display: flex;
+    width: 90%;
+    justify-content: space-between;
+    margin:50px;
+}
+.two-column{
+    background: #cccccc;
+    width: 32%;
+    height: 500px;
+}
+.grow{
+    margin-right: 20px;
+    flex-grow:2;
+}
+
