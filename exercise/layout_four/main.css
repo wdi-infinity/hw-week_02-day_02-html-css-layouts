@@ -1,0 +1,56 @@
+body {
+  margin: 0;
+}
+header {
+  height: 100%;
+  /* width: 100%; */
+  /* border: 2px solid black; */
+  display: flex;
+  justify-content: space-between;
+}
+.logo {
+  height: 100px;
+  border: 2px solid black;
+  width: 150px;
+  align-self: flex-start;
+}
+nav {
+  height: 100px;
+  /* border: 2px solid red; */
+  width: 900px;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+nav div {
+  height: 40px;
+  width: 20%;
+  border: 2px solid black;
+  margin: 0 10px;
+  margin-right: -0.2px;
+}
+
+section {
+  /* width: 100%; */
+  padding: 0;
+  margin: 10px 0;
+}
+.first {
+  border: 2px solid black;
+  height: 250px;
+}
+.second {
+  display: flex;
+  justify-content: space-between;
+  height: 190px;
+}
+section div {
+  border: 2px solid black;
+  width: 32%;
+}
+
+footer {
+  height: 100px;
+  /* width: 100%; */
+  border: 2px solid black;
+}
