@@ -1,0 +1,43 @@
+.firstrow{
+    background-color: rgb(226, 225, 225);
+    border:0.5px solid rgb(112, 111, 111) ;
+    height:80px;
+    margin:15px ;
+    }
+    
+    
+    
+    .secondrow{
+    
+    display: flex;
+    
+    }
+    
+    .secondrow-right{
+    
+        background-color: rgb(226, 225, 225);
+        border:0.5px solid rgb(112, 111, 111) ;
+        height:500px;
+        width: 500px;
+        margin:15px ;
+    
+    
+    }
+    
+    .secondrow-left{
+    
+        background-color: rgb(226, 225, 225);
+        border:0.5px solid rgb(112, 111, 111) ;
+        height:500px;
+        width: 900px;
+        margin:15px ;
+    
+    
+    }
+    
+    .forthrow{
+        background-color: rgb(226, 225, 225);
+        border:0.5px solid rgb(112, 111, 111) ;
+        height:80px;
+        margin:15px ;
+        }
