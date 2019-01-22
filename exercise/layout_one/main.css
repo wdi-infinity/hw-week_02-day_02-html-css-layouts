@@ -1,0 +1,29 @@
+.box{
+    border:1px solid black;
+    height: 100px;
+    margin: 6px;
+    background-color: gainsboro;
+}
+
+.row{
+    display: flex;
+}
+
+.col {
+    border: 1px solid black;
+    height: 300px;
+    margin: 6px;
+    background-color: gainsboro;
+
+}
+
+.grow {
+    flex-grow: 1; 
+    margin-left: 20px;
+}
+
+
+.col:first-child {
+    width: 60%;
+
+
