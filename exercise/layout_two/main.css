@@ -1,0 +1,33 @@
+header {
+  height: 100px;
+  width: 100%;
+  border: 2px solid black;
+}
+
+section {
+  height: 450px;
+  width: 100%;
+  /* border: 2px solid black; */
+  margin: 5px 0;
+  display: flex;
+  justify-content: space-between;
+}
+
+div {
+  border: 2px solid black;
+  width: 25%;
+}
+
+.grow {
+  /* background: black; */
+  flex-grow: 1;
+  margin: 0 5px;
+}
+.rightMargin {
+  margin-right: -4px;
+}
+footer {
+  height: 100px;
+  width: 100%;
+  border: 2px solid black;
+}
