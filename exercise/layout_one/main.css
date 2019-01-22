@@ -1,0 +1,41 @@
+#boxone {
+    border: 1px solid grey;
+    background-color: lightgray;
+    margin: 20px;
+    width: 1000px;
+    height: 100px;
+}
+
+#boxtwo {
+    /* border: 1px solid grey;
+    background-color: lightgray; */
+    margin: 20px;
+    width: 1000px;
+    height: 300px;
+    display: flex;
+    align-items: column;
+    /* justify-content: space-around; */
+}
+
+#subboxleft {
+    border: 1px solid grey;
+    background-color: lightgray;
+    width: 70%;
+    height: 100%;
+}
+
+#subboxright {
+    border: 1px solid grey;
+    background-color: lightgray;
+    width: 30%;
+    height: 100%;
+    margin-left: 20px;
+}
+
+#boxthree {
+    border: 1px solid grey;
+    background-color: lightgray;
+    margin: 20px;
+    width: 1000px;
+    height: 100px;
+}
