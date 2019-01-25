@@ -1,0 +1,29 @@
+.box{
+    border:1px solid black;
+    height: 100px;
+    margin: 6px;
+    background-color: whitesmoke;
+}
+
+.row{
+    display: flex;
+}
+
+.column {
+    border: 1px solid black;
+    height: 300px;
+    margin: 6px;
+    background-color: whitesmoke;
+    width: 50%;
+
+}
+
+.grow {
+    flex-grow: 1; 
+    margin-left: 20px;
+}
+
+
+.column:first-child {
+    width: 70%;
+}
