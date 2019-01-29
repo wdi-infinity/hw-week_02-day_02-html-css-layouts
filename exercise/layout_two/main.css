@@ -1,0 +1,44 @@
+.head {
+    height: 200px;
+    width: 99%;
+    border: 2px solid black;
+    margin: 10px;
+}
+
+.right-grow {
+    flex-grow: 1;
+    margin-left: 1110px;
+    border: 2px solid black;
+    height: 300px;
+    margin-top: 10px;
+    width: 152px;
+
+}
+
+.left-grow {
+    position: absolute;
+    top: 10;
+    top: 221px;
+    left: 18px;
+    width: 152px;
+    flex-grow: 1;
+    border: 2px solid black;
+    height: 300px;
+}
+.medium-grow{
+    flex-grow: 1;
+    border: 2px solid black;
+    height: 301px;
+    margin-top: 10px;
+    position: absolute;
+    top: 213px;
+    left: 197px;
+    width: 901px;
+}
+
+footer {
+    height: 200px;
+    width: 99%;
+    border: 2px solid black;
+    margin: 10px;
+}

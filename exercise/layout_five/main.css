@@ -1,0 +1,129 @@
+.head {
+    height: 140px;
+    width: 400px;
+    border: 2px solid black;
+    margin: 10px;
+}
+.liftBar{
+    height: 400px;
+    width: 89px;
+    border: 2px solid black;
+    margin: 10px;
+}
+.row1-1{
+    height: 70px;
+    width: 100px;
+    border: 2px solid black;
+    margin: 10px;
+    position: absolute;
+    top: 22px;
+    left: 500px;
+}
+.row1-2{
+    height: 70px;
+    width: 100px;
+    border: 2px solid black;
+    margin: 10px;
+    position: absolute;
+    top: 22px;
+    left: 650px;
+}
+
+
+.row1-5{
+    height: 70px;
+    width: 100px;
+    border: 2px solid black;
+    margin: 10px;
+    position: absolute;
+    top: 22px;
+    left: 1100px;
+}
+.row1-4{
+    height: 70px;
+    width: 100px;
+    border: 2px solid black;
+    margin: 10px;
+    position: absolute;
+    top: 22px;
+    left: 950px;
+}
+.row2{
+    position: absolute;
+    top: 165px;
+    left: 139px;
+    height: 120px;
+    border: 2px solid black;
+    width: 78px;
+    width: 86%;
+}
+.row1-3{
+    height: 70px;
+    width: 100px;
+    border: 2px solid black;
+    margin: 10px;
+    position: absolute;
+    top: 22px;
+    left: 800px;
+}
+.row3-2{
+    border: 2px solid black;
+    height: 120px;
+    margin-top: 10px;
+    width: 816px;
+    position: absolute;
+    top: 308px;
+    left: 139px;
+ }
+ .row3-3{
+    border: 2px solid black;
+    height: 120px;
+    margin-top: 10px;
+    width: 249px;
+    position: absolute;
+    top: 308px;
+    left: 995px;
+ }
+ .row4-1{
+    border: 2px solid black;
+    height: 107px;
+    margin-top: 10px;
+    width: 250px;
+    position: absolute;
+    top: 446px;
+    left: 139px;
+ }
+ .row4-2{
+    border: 2px solid black;
+    height: 107px;
+    margin-top: 10px;
+    width: 250px;
+    position: absolute;
+    top: 446px;
+    left: 422px;
+ }
+ .row4-3{
+    border: 2px solid black;
+    height: 107px;
+    margin-top: 10px;
+    width: 250px;
+    position: absolute;
+    top: 446px;
+    left: 704px;
+ }
+ .row4-4{
+    border: 2px solid black;
+    height: 107px;
+    margin-top: 10px;
+    width: 250px;
+    position: absolute;
+    top: 446px;
+    left: 994px;
+ }
+
+footer {
+    height: 140px;
+    width: 99%;
+    border: 2px solid black;
+    margin: 10px;
+}
